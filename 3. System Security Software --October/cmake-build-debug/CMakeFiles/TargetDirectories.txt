@@ -1,0 +1,3 @@
+C:/Users/Lenovo/CLionProjects/System Security/cmake-build-debug/CMakeFiles/System_Security_.dir
+C:/Users/Lenovo/CLionProjects/System Security/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/CLionProjects/System Security/cmake-build-debug/CMakeFiles/rebuild_cache.dir
