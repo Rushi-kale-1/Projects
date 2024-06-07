@@ -73,4 +73,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-If you have any questions or feedback, please contact me at [your-email@example.com](mailto:rishikale32@gmail.com).
+If you have any questions or feedback, please contact me at [rishikale32@gmail.com](mailto:rishikale32@gmail.com).
